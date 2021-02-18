@@ -2,8 +2,8 @@
     "station":
     [
      {
-     "name": "Otvoreni LIVE",
-     "streamURL": "https://stream.otvoreni.hr/stream48",
+     "name": "MNM Hits",
+     "streamURL": "http://icecast.vrtcdn.be/mnm_hits-high.mp3 ",
      "imageURL": "https://www.otvoreni.hr/ea/wp-content/uploads/2019/06/cover_live.png",
      "desc": ""
      },
