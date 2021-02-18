@@ -3,7 +3,7 @@
     [
      {
      "name": "MNM Hits",
-     "streamURL": "http://icecast.vrtcdn.be/mnm_hits-high.mp3 ",
+     "streamURL": "http://icecast.vrtcdn.be/mnm_hits.aac",
      "imageURL": "https://www.otvoreni.hr/ea/wp-content/uploads/2019/06/cover_live.png",
      "desc": ""
      },
